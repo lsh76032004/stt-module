@@ -1,0 +1,3 @@
+[stt_module.so]
+: stt_module_init START_MONITOR
+: stt_module RECEIVE_DATA
